@@ -1,1 +1,2 @@
-# Quera-Connect-Data-
+Code by Behrooz Ostadaghaee
+E-mail: b.ostadaghaee@gmail.com
